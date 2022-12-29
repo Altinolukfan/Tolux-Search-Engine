@@ -1,15 +1,11 @@
 {
-  "name": "node-js-calisma",
+  "name": "tolux-search-engine",
   "version": "1.0.0",
-  "description": "",
-  "main": "route.js",
+  "description": "tolux search",
+  "main": "crawler.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test "
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mysql": "^2.18.1"
-  }
+  "license": "ISC"
 }
